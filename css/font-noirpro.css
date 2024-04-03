@@ -1,0 +1,240 @@
+@font-face {
+    font-family: 'Noir Pro';
+    src: url('../fonts/hinted-NoirPro-BoldItalic.eot');
+    src: url('../fonts/hinted-NoirPro-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/hinted-NoirPro-BoldItalic.woff2') format('woff2'),
+        url('../fonts/hinted-NoirPro-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Noir Pro';
+    src: url('../fonts/hinted-NoirPro-HeavyItalic.eot');
+    src: url('../fonts/hinted-NoirPro-HeavyItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/hinted-NoirPro-HeavyItalic.woff2') format('woff2'),
+        url('../fonts/hinted-NoirPro-HeavyItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Noir Pro Semi';
+    src: url('../fonts/hinted-NoirPro-SemiBold.eot');
+    src: url('../fonts/hinted-NoirPro-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/hinted-NoirPro-SemiBold.woff2') format('woff2'),
+        url('../fonts/hinted-NoirPro-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Noir Pro';
+    src: url('../fonts/hinted-NoirPro-MediumItalic.eot');
+    src: url('../fonts/hinted-NoirPro-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/hinted-NoirPro-MediumItalic.woff2') format('woff2'),
+        url('../fonts/hinted-NoirPro-MediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Noir Pro';
+    src: url('../fonts/hinted-NoirPro-Medium.eot');
+    src: url('../fonts/hinted-NoirPro-Medium.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/hinted-NoirPro-Medium.woff2') format('woff2'),
+        url('../fonts/hinted-NoirPro-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Noir Pro';
+    src: url('../fonts/hinted-NoirPro-Regular.eot');
+    src: url('../fonts/hinted-NoirPro-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/hinted-NoirPro-Regular.woff2') format('woff2'),
+        url('../fonts/hinted-NoirPro-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Noir Pro';
+    src: url('../fonts/hinted-NoirPro-Heavy.eot');
+    src: url('../fonts/hinted-NoirPro-Heavy.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/hinted-NoirPro-Heavy.woff2') format('woff2'),
+        url('../fonts/hinted-NoirPro-Heavy.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Noir Pro Semi';
+    src: url('../fonts/hinted-NoirPro-SemiBoldItalic.eot');
+    src: url('../fonts/hinted-NoirPro-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/hinted-NoirPro-SemiBoldItalic.woff2') format('woff2'),
+        url('../fonts/hinted-NoirPro-SemiBoldItalic.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Noir Pro';
+    src: url('../fonts/hinted-NoirPro-Bold.eot');
+    src: url('../fonts/hinted-NoirPro-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/hinted-NoirPro-Bold.woff2') format('woff2'),
+        url('../fonts/hinted-NoirPro-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Noir Pro';
+    src: url('../fonts/hinted-NoirPro-Italic.eot');
+    src: url('../fonts/hinted-NoirPro-Italic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/hinted-NoirPro-Italic.woff2') format('woff2'),
+        url('../fonts/hinted-NoirPro-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Noir Pro';
+    src: url('../fonts/hinted-NoirPro-Light.eot');
+    src: url('../fonts/hinted-NoirPro-Light.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/hinted-NoirPro-Light.woff2') format('woff2'),
+        url('../fonts/hinted-NoirPro-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Noir Pro';
+    src: url('../fonts/hinted-NoirPro-LightItalic.eot');
+    src: url('../fonts/hinted-NoirPro-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/hinted-NoirPro-LightItalic.woff2') format('woff2'),
+        url('../fonts/hinted-NoirPro-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Noir Pro';
+    src: url('../fonts/hinted-NoirPro-Medium.eot');
+    src: url('../fonts/hinted-NoirPro-Medium.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/hinted-NoirPro-Medium.woff2') format('woff2'),
+        url('../fonts/hinted-NoirPro-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Noir Pro';
+    src: url('../fonts/hinted-NoirPro-Italic.eot');
+    src: url('../fonts/hinted-NoirPro-Italic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/hinted-NoirPro-Italic.woff2') format('woff2'),
+        url('../fonts/hinted-NoirPro-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Noir Pro';
+    src: url('../fonts/hinted-NoirPro-MediumItalic.eot');
+    src: url('../fonts/hinted-NoirPro-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/hinted-NoirPro-MediumItalic.woff2') format('woff2'),
+        url('../fonts/hinted-NoirPro-MediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Noir Pro';
+    src: url('../fonts/hinted-NoirPro-HeavyItalic.eot');
+    src: url('../fonts/hinted-NoirPro-HeavyItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/hinted-NoirPro-HeavyItalic.woff2') format('woff2'),
+        url('../fonts/hinted-NoirPro-HeavyItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Noir Pro';
+    src: url('../fonts/hinted-NoirPro-LightItalic.eot');
+    src: url('../fonts/hinted-NoirPro-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/hinted-NoirPro-LightItalic.woff2') format('woff2'),
+        url('../fonts/hinted-NoirPro-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Noir Pro';
+    src: url('../fonts/hinted-NoirPro-Regular.eot');
+    src: url('../fonts/hinted-NoirPro-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/hinted-NoirPro-Regular.woff2') format('woff2'),
+        url('../fonts/hinted-NoirPro-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Noir Pro Semi';
+    src: url('../fonts/hinted-NoirPro-SemiBold.eot');
+    src: url('../fonts/hinted-NoirPro-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/hinted-NoirPro-SemiBold.woff2') format('woff2'),
+        url('../fonts/hinted-NoirPro-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Noir Pro';
+    src: url('../fonts/hinted-NoirPro-Bold.eot');
+    src: url('../fonts/hinted-NoirPro-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/hinted-NoirPro-Bold.woff2') format('woff2'),
+        url('../fonts/hinted-NoirPro-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Noir Pro';
+    src: url('../fonts/hinted-NoirPro-Heavy.eot');
+    src: url('../fonts/hinted-NoirPro-Heavy.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/hinted-NoirPro-Heavy.woff2') format('woff2'),
+        url('../fonts/hinted-NoirPro-Heavy.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Noir Pro Semi';
+    src: url('../fonts/hinted-NoirPro-SemiBoldItalic.eot');
+    src: url('../fonts/hinted-NoirPro-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/hinted-NoirPro-SemiBoldItalic.woff2') format('woff2'),
+        url('../fonts/hinted-NoirPro-SemiBoldItalic.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Noir Pro';
+    src: url('../fonts/hinted-NoirPro-BoldItalic.eot');
+    src: url('../fonts/hinted-NoirPro-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/hinted-NoirPro-BoldItalic.woff2') format('woff2'),
+        url('../fonts/hinted-NoirPro-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Noir Pro';
+    src: url('../fonts/hinted-NoirPro-Light.eot');
+    src: url('../fonts/hinted-NoirPro-Light.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/hinted-NoirPro-Light.woff2') format('woff2'),
+        url('../fonts/hinted-NoirPro-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+
